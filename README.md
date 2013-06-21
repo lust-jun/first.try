@@ -1,0 +1,1 @@
+# See Here Http://wiki.corp.ganji.com/首页/运营平台/CRM售中小组/open-api/advert-render
